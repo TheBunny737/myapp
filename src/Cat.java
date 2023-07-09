@@ -1,4 +1,5 @@
 public class Cat {
+    // This one is from master.
     private String name;
     private int age;
 
