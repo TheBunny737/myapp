@@ -1,4 +1,5 @@
 public class Cat {
+    // feature 2.
     private String name;
     private int age;
 
