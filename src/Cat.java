@@ -1,5 +1,5 @@
 public class Cat {
-    
+
     // This one is from master.
     // feature 2.
     private String name;
