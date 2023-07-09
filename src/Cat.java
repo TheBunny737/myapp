@@ -1,21 +1,6 @@
 public class Cat {
     private String name;
     private int age;
-    private int amount;
-
-    public Cat(String name, int age, int amount) {
-        this.name = name;
-        this.age = age;
-        this.amount = amount;
-    }
-
-    public int getAmount() {
-        return amount;
-    }
-
-    public void setAmount(int amount) {
-        this.amount = amount;
-    }
 
     public Cat(String name, int age) {
         this.name = name;
